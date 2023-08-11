@@ -52,10 +52,6 @@ The main objective of this repository is to offer readers an in-depth understand
 - [x] [Dimitris Matsanganis](https://github.com/dmatsanganis)
 
 
-### 🛡️ Badges:
-
-
-
 
 ![Impala](https://img.shields.io/badge/Impala-%2300d1a9?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-%230074c3?style=for-the-badge)
