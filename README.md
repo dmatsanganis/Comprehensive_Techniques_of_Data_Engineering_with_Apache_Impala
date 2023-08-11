@@ -52,7 +52,7 @@ The main objective of this repository is to offer readers an in-depth understand
 - [x] [Dimitris Matsanganis](https://github.com/dmatsanganis)
 
 
-###🛡️ Badges:
+### 🛡️ Badges:
 
 
 
