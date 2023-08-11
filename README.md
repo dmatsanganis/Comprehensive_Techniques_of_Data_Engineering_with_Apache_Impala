@@ -47,10 +47,14 @@ The main objective of this repository is to offer readers an in-depth understand
 - **Hands-On SQL**: Witness the power of SQL as it's leveraged to perform a myriad of operations in Impala, from simple data insertions to complex query optimizations.
 
 
-
-## Contributors
+## 💡 Contributors
 
 - [x] [Dimitris Matsanganis](https://github.com/dmatsanganis)
+
+
+###🛡️ Badges:
+
+
 
 
 ![Impala](https://img.shields.io/badge/Impala-%2300d1a9?style=for-the-badge)
