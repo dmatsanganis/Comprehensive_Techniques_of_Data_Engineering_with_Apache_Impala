@@ -5,7 +5,7 @@ This initiative offers an analytical exploration into the intricacies of Apache 
 In other words, in the realm of data engineering, Apache Impala stands as a beacon of powerful distributed query execution. This repository offers a meticulous journey through Impala, merging the theoretical foundations with hands-on SQL applications. Through a series of tasks, we delve into the nuances of data virtualization, database creation, and the art and science of query optimization. 
 
 ## 📘 Analysis Objective
-
+ 
 The main objective of this repository is to offer readers an in-depth understanding of data engineering techniques using Apache Impala. By walking through a series of meticulously crafted tasks, you'll gain insights into data virtualization, efficient database design, and advanced query optimization strategies. Each task represents a real-world challenge, ensuring that the knowledge acquired here is not just theoretical but also immensely practical. To be more precise, the current analysis contains the following:
 
 ## 📋 Analysis Contents
